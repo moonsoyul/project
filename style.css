@@ -10,7 +10,7 @@
 
 
  .intro_bg{
-     background: rgb(165, 191, 230);
+     background: rgba(165, 191, 230, 0.8);
      width:100%;
      height:721px;
  }
@@ -18,7 +18,7 @@
  .header{
      width: 80%;
      margin: auto;
-     background: rgb(165, 191, 230);
+     background: rgba(165, 191, 230, 0.8);
      height: 10px;
  }
 
@@ -26,7 +26,7 @@
     display: flex;
     justify-content: flex-end;
     width:calc(1920px- 200px);
-    background: rgb(165, 191, 230);
+    background: rgba(165, 191, 230,0.8);
     line-height: 86px;
 
 }
@@ -42,7 +42,7 @@
 .intro_text{
     width:100%;
     margin-top: 50px;
-    background: rgb(165, 191, 230);
+    background: rgba(165, 191, 230,0.8);
     text-align: center;
     font-size: 18px;
 }
@@ -56,7 +56,7 @@
     margin: auto;
     width:1280px;
     height: 302px;
-    background: rgb(165,191,230);
+    background: rgba(165,191,230,0.8);
 }
 
 .icons>li{
